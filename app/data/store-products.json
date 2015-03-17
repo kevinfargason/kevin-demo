@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Curbside Pickup Service",
+    "description": "If you enjoy throwing things away, you will love our curbside waste removal service!",
+    "Wheels": 2,
+    "price": 110.50,
+    "height": 4,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/home-waste-pickup-1.png",
+      "img/home-waste-pickup-2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Dumpster Rental",
+    "description": "Just finished knocking down that load bearing wall?  We've got a dumpster with your name on it!",
+    "Wheels": 0,
+    "price": 22.90,
+    "height": 6,
+    "color": "#EEE",
+    "faces": 12,
+    "images": [
+      "http://lorempixel.com/198/197/city/",
+      "http://lorempixel.com/198/198/city/",
+      "http://lorempixel.com/197/198/city/"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Curbside Recycing Service",
+    "description": "Do you get all warm and fuzzy thinking about what that #1 Polyethylene Terephthalate bottle will become in it's next life? We sure do.",
+    "Wheels": 2,
+    "price": 1100,
+    "height": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "https://placekitten.com/198/198",
+      "https://placekitten.com/197/198",
+      "https://placekitten.com/198/197"
+    ],
+    "reviews": []
+  }
+]
+

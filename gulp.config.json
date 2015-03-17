@@ -1,0 +1,13 @@
+{
+  "src": {
+    "lib":      "./app/lib",
+    "js":       "./app/js",
+    "sass":     "./app/sass",
+    "img":      "./app/img",
+    "partial":  "./app/partial"
+  },
+  "dist": {
+      "css": "./dist/css",
+      "js": "./dist/js"
+  }
+}
